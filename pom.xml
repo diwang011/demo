@@ -37,7 +37,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <version>2.3.7.RELEASE</version>
                 <configuration>
-                    <mainClass>com.fun.demo.DemoApplication</mainClass>
+                    <mainClass>com.fun.demo.Starter</mainClass>
                 </configuration>
                 <executions>
                     <execution>
